@@ -24,6 +24,7 @@ body {
     grid-template-columns: 1fr 1fr;
     grid-template-rows: 9fr 11fr;
     border-radius: 10px;
+    box-shadow: hsl(218, 22%, 67%) 0px 7px 29px 0px;
 }
 
 .wrapper > * {
